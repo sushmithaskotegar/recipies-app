@@ -1,3 +1,4 @@
 # recipies-app
--cd recipies-app
--expo start
+cd recipies-app
+npm i
+expo start
